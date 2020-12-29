@@ -1,0 +1,10 @@
+datapre1049
+fit_logs
+keras_logs
+keras_model_save
+model_with_metadata
+model_with_metadata_ok
+saved_model
+test_model_save
+test_saved_model
+*.tflite
