@@ -8,3 +8,4 @@ saved_model
 test_model_save
 test_saved_model
 *.tflite
+__pycache__
